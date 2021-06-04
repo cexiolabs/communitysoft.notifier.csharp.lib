@@ -1,0 +1,8 @@
+bin/
+obj/
+ref/
+
+*.local*
+
+# Mac specific
+.DS_Store
